@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F1E1A6&height=300&section=header&text=I'm%20FE%20developer&fontSize=90&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFDB81&height=300&section=header&text=I'm%20FE%20developer&fontSize=90&fontColor=f7f5f5)
 
 <h3 align="center">🛠 &nbsp Tech Stack &nbsp 🛠</h3>
 
@@ -16,21 +16,11 @@
 
 <h3 align="center">🌈 &nbsp Me &nbsp 🌥</h3>
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:entjq9502@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=entjq9502@khu.ac.kr"/></a>&nbsp
+  <a href="https://guuearth.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://guuearth.tistory.com/"/></a>&nbsp
+  <a href="https://rebel-ptarmigan-d38.notion.site/87eff72eb36149ef8bbd7d9363815d71"><img src="https://img.shields.io/badge/PORTPOLIO-3F54A3?style=flat-square&logoColor=white&link=https://rebel-ptarmigan-d38.notion.site/87eff72eb36149ef8bbd7d9363815d71"/></a>
 </p>
 <br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
-
-  <div align=center>
-	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=earthssu&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-	
-  </div>
 
 <!--
 **earthssu/earthssu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
