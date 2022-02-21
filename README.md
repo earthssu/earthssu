@@ -18,7 +18,6 @@
 <p align="center">
   <a href="mailto:entjq9502@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=entjq9502@khu.ac.kr"/></a>&nbsp
   <a href="https://guuearth.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://guuearth.tistory.com/"/></a>&nbsp
-  <a href="https://rebel-ptarmigan-d38.notion.site/87eff72eb36149ef8bbd7d9363815d71"><img src="https://img.shields.io/badge/PORTPOLIO-3F54A3?style=flat-square&logoColor=white&link=https://rebel-ptarmigan-d38.notion.site/87eff72eb36149ef8bbd7d9363815d71"/></a>
 </p>
 <br>
 
